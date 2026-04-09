@@ -1,0 +1,101 @@
+Medicine_ID,Medicine_Name,Category,Batch_No,Manufacture_Date,Expiry_Date,Quantity,Unit_Price,Base_Location,Supplier,Stock_Status,Place
+MED001,Paracetamol 500mg,Tablet,BT-PAR-2401,2024-01-15,2026-01-14,450,1.20,North Command Medical Store,Sun Pharma,Expired,Srinagar
+MED002,Amoxicillin 250mg,Capsule,BT-AMX-2402,2024-02-10,2026-02-09,320,2.80,Western Base Hospital,Cipla,Expired,Jodhpur
+MED003,Cetirizine 10mg,Tablet,BT-CET-2403,2024-03-05,2026-09-04,500,1.50,Eastern Supply Depot,Dr. Reddy's,Safe,Kolkata
+MED004,Azithromycin 500mg,Tablet,BT-AZI-2404,2024-04-12,2026-10-11,210,6.20,Central Armed Forces Clinic,Lupin,Safe,Bhopal
+MED005,Ibuprofen 400mg,Tablet,BT-IBU-2405,2024-05-08,2026-05-07,390,1.90,Southern Naval Medical Unit,Sun Pharma,Near Expiry,Chennai
+MED006,Metformin 500mg,Tablet,BT-MET-2406,2024-06-18,2027-06-17,610,2.10,Air Command Medical Center,Abbott,Safe,Bengaluru
+MED007,Omeprazole 20mg,Capsule,BT-OME-2407,2024-07-20,2026-07-19,280,3.75,Northern Border Health Post,Torrent Pharma,Near Expiry,Leh
+MED008,ORS Sachet,Rehydration,BT-ORS-2408,2024-08-02,2026-08-01,700,4.40,Desert Field Dispensary,Zydus,Near Expiry,Bikaner
+MED009,Vitamin C 500mg,Tablet,BT-VTC-2409,2024-09-14,2027-09-13,560,2.00,Coastal Command Infirmary,Mankind,Safe,Kochi
+MED010,Insulin Regular 100IU/ml,Injection,BT-INS-2410,2024-10-01,2026-04-30,95,145.00,Strategic Medical Warehouse,Novo Nordisk,Expired,Delhi
+MED011,Saline 500ml,IV Fluid,BT-SAL-2411,2024-11-11,2027-11-10,350,32.00,Western Base Hospital,Baxter,Safe,Jodhpur
+MED012,Crocin Syrup 60ml,Syrup,BT-CRC-2412,2024-12-05,2026-12-04,140,28.00,Eastern Supply Depot,GSK,Safe,Kolkata
+MED013,Doxycycline 100mg,Capsule,BT-DOX-2501,2025-01-09,2027-01-08,260,3.10,High Altitude Medical Camp,Cipla,Safe,Tawang
+MED014,Diclofenac Gel 30g,Ointment,BT-DIC-2502,2025-02-15,2027-02-14,180,42.00,Southern Naval Medical Unit,Volini,Safe,Chennai
+MED015,Atorvastatin 10mg,Tablet,BT-ATO-2503,2025-03-01,2026-08-31,300,5.80,Air Command Medical Center,Sun Pharma,Near Expiry,Bengaluru
+MED016,Losartan 50mg,Tablet,BT-LOS-2504,2025-04-07,2027-04-06,410,4.10,Northern Border Health Post,Lupin,Safe,Leh
+MED017,Multivitamin Capsules,Capsule,BT-MVC-2505,2025-05-13,2026-11-12,240,3.60,Central Armed Forces Clinic,Himalaya,Safe,Bhopal
+MED018,Pantoprazole 40mg,Tablet,BT-PAN-2506,2025-06-25,2027-06-24,520,4.90,Strategic Medical Warehouse,Alkem,Safe,Delhi
+MED019,Cefixime 200mg,Tablet,BT-CEF-2507,2025-07-04,2026-07-03,190,8.50,Mountain Rescue Unit,Dr. Reddy's,Near Expiry,Gangtok
+MED020,Glucose D Powder 100g,Nutrition,BT-GLU-2508,2025-08-16,2026-08-15,330,18.00,Desert Field Dispensary,Dabur,Near Expiry,Bikaner
+MED021,Hydrocortisone Cream 15g,Ointment,BT-HYD-2509,2025-09-09,2027-09-08,125,36.00,Coastal Command Infirmary,Glenmark,Safe,Kochi
+MED022,Amikacin 500mg,Injection,BT-AMI-2510,2025-10-21,2027-04-20,88,54.00,Western Forward Aid Station,Abbott,Safe,Barmer
+MED023,Ranitidine 150mg,Tablet,BT-RAN-2511,2025-11-18,2026-05-17,275,2.70,Field Trauma Center,Sun Pharma,Expired,Pune
+MED024,Loperamide 2mg,Tablet,BT-LOP-2512,2025-12-02,2027-12-01,210,1.85,Eastern Supply Depot,Mankind,Safe,Kolkata
+MED025,Levocetirizine 5mg,Tablet,BT-LVC-2601,2026-01-10,2028-01-09,460,1.75,Air Command Medical Center,Cipla,Safe,Bengaluru
+MED026,Ceftriaxone 1g,Injection,BT-CFX-2602,2026-02-14,2027-08-13,105,68.00,Strategic Medical Warehouse,Rocephin,Safe,Delhi
+MED027,Ondansetron 4mg,Tablet,BT-OND-2603,2026-03-03,2027-09-02,175,3.20,Northern Border Health Post,Emcure,Safe,Leh
+MED028,Antiseptic Solution 100ml,Liquid,BT-ANT-2604,2026-03-12,2027-03-11,285,24.00,Central Armed Forces Clinic,Dettol,Safe,Bhopal
+MED029,Calcium Tablets,Tablet,BT-CAL-2605,2026-03-15,2027-09-14,340,2.95,Southern Naval Medical Unit,Shelcal,Safe,Chennai
+MED030,Iron Folic Acid,Tablet,BT-IFA-2606,2026-03-18,2027-09-17,380,1.40,Coastal Command Infirmary,Cipla,Safe,Kochi
+MED031,Clopidogrel 75mg,Tablet,BT-CLO-2607,2025-05-22,2026-03-21,160,6.60,Western Base Hospital,USV,Expired,Jodhpur
+MED032,Normal Saline 100ml,IV Fluid,BT-NSL-2608,2025-06-19,2026-06-18,420,14.00,Field Trauma Center,Baxter,Near Expiry,Pune
+MED033,Anti-Malarial Kit,Emergency Kit,BT-AMK-2609,2025-07-11,2026-09-10,70,220.00,High Altitude Medical Camp,WHO Supply,Safe,Tawang
+MED034,Bandage Roll 5m,Surgical Supply,BT-BND-2610,2025-08-29,2028-08-28,500,12.00,Mountain Rescue Unit,3M,Safe,Gangtok
+MED035,Surgical Gloves Box,Surgical Supply,BT-GLV-2611,2025-09-16,2027-09-15,230,185.00,Western Forward Aid Station,Ansell,Safe,Barmer
+MED036,Povidone Iodine 100ml,Liquid,BT-PVD-2612,2025-10-08,2026-10-07,145,48.00,Northern Border Health Post,Betadine,Safe,Leh
+MED037,Antacid Suspension 170ml,Syrup,BT-ANTA-2613,2025-11-27,2026-11-26,165,58.00,Desert Field Dispensary,Digene,Safe,Bikaner
+MED038,Cough Syrup 100ml,Syrup,BT-COF-2614,2025-12-20,2026-06-19,120,64.00,Central Armed Forces Clinic,Benadryl,Near Expiry,Bhopal
+MED039,First Aid Kit,Emergency Kit,BT-FAK-2615,2026-01-06,2028-01-05,55,310.00,Coastal Command Infirmary,St. John,Safe,Kochi
+MED040,Adrenaline 1mg/ml,Injection,BT-ADR-2616,2026-01-17,2027-01-16,48,92.00,Field Trauma Center,Neon,Safe,Pune
+MED041,Amoxiclav 625mg,Tablet,BT-AMC-2617,2026-01-28,2027-07-27,215,7.40,Western Base Hospital,GSK,Safe,Jodhpur
+MED042,Fluconazole 150mg,Tablet,BT-FLU-2618,2026-02-09,2027-08-08,130,9.50,Eastern Supply Depot,Cipla,Safe,Kolkata
+MED043,Aspirin 75mg,Tablet,BT-ASP-2619,2026-02-20,2027-08-19,390,1.10,Air Command Medical Center,Sun Pharma,Safe,Bengaluru
+MED044,Albendazole 400mg,Tablet,BT-ALB-2620,2026-02-27,2027-08-26,260,2.30,Mountain Rescue Unit,Alkem,Safe,Gangtok
+MED045,Topical Burn Cream 20g,Ointment,BT-BRN-2621,2026-03-01,2027-08-31,90,76.00,Western Forward Aid Station,Silverex,Safe,Barmer
+MED046,ORS Ready Liquid 200ml,Rehydration,BT-ORL-2622,2025-04-02,2026-04-01,240,22.00,Southern Naval Medical Unit,Dabur,Expired,Chennai
+MED047,Cefpodoxime 200mg,Tablet,BT-CPD-2623,2025-04-18,2026-10-17,175,11.20,Strategic Medical Warehouse,Lupin,Safe,Delhi
+MED048,N95 Mask Pack,Protective Supply,BT-N95-2624,2025-05-09,2028-05-08,310,95.00,High Altitude Medical Camp,3M,Safe,Tawang
+MED049,Hand Sanitizer 500ml,Protective Supply,BT-HSZ-2625,2025-06-14,2027-06-13,205,88.00,Central Armed Forces Clinic,Dettol,Safe,Bhopal
+MED050,Tetanus Injection,Injection,BT-TET-2626,2025-07-01,2026-12-30,75,54.00,Northern Border Health Post,Serum Institute,Safe,Leh
+MED051,Paracetamol 650mg,Tablet,BT-PAR-2627,2025-07-12,2027-01-11,420,1.45,North Command Medical Store,Sun Pharma,Safe,Srinagar
+MED052,Amoxicillin 500mg,Capsule,BT-AMX-2628,2025-08-04,2026-08-03,250,3.90,Western Base Hospital,Cipla,Near Expiry,Jodhpur
+MED053,Cetirizine Syrup 60ml,Syrup,BT-CET-2629,2025-08-19,2026-10-18,160,34.00,Eastern Supply Depot,Dr. Reddy's,Safe,Kolkata
+MED054,Azithromycin 250mg,Tablet,BT-AZI-2630,2025-09-01,2027-02-28,300,4.80,Central Armed Forces Clinic,Lupin,Safe,Bhopal
+MED055,Ibuprofen Suspension 100ml,Syrup,BT-IBU-2631,2025-09-14,2026-09-13,115,52.00,Southern Naval Medical Unit,Sun Pharma,Near Expiry,Chennai
+MED056,Metformin 850mg,Tablet,BT-MET-2632,2025-09-28,2027-03-27,540,2.65,Air Command Medical Center,Abbott,Safe,Bengaluru
+MED057,Omeprazole 40mg,Capsule,BT-OME-2633,2025-10-06,2026-10-05,270,5.20,Northern Border Health Post,Torrent Pharma,Safe,Leh
+MED058,ORS Sachet Orange,Rehydration,BT-ORS-2634,2025-10-18,2027-04-17,620,4.75,Desert Field Dispensary,Zydus,Safe,Bikaner
+MED059,Vitamin D3 60000 IU,Tablet,BT-VTD-2635,2025-11-02,2027-05-01,210,8.10,Coastal Command Infirmary,Mankind,Safe,Kochi
+MED060,Insulin NPH 100IU/ml,Injection,BT-INS-2636,2025-11-21,2026-05-20,64,162.00,Strategic Medical Warehouse,Novo Nordisk,Expired,Delhi
+MED061,Dextrose 5% 500ml,IV Fluid,BT-DEX-2637,2025-12-08,2027-12-07,310,36.00,Western Base Hospital,Baxter,Safe,Jodhpur
+MED062,PCM Drops 15ml,Drops,BT-PCM-2638,2025-12-20,2026-12-19,90,29.00,Eastern Supply Depot,GSK,Safe,Kolkata
+MED063,Doxycycline 200mg,Capsule,BT-DOX-2639,2026-01-03,2027-07-02,230,4.60,High Altitude Medical Camp,Cipla,Safe,Tawang
+MED064,Diclofenac 50mg,Tablet,BT-DIC-2640,2026-01-11,2027-07-10,340,2.35,Southern Naval Medical Unit,Volini,Safe,Chennai
+MED065,Atorvastatin 20mg,Tablet,BT-ATO-2641,2026-01-19,2027-01-18,260,7.20,Air Command Medical Center,Sun Pharma,Safe,Bengaluru
+MED066,Losartan 25mg,Tablet,BT-LOS-2642,2026-01-26,2027-07-25,390,3.40,Northern Border Health Post,Lupin,Safe,Leh
+MED067,Multivitamin Syrup 100ml,Syrup,BT-MVS-2643,2026-02-04,2026-11-03,140,44.00,Central Armed Forces Clinic,Himalaya,Safe,Bhopal
+MED068,Pantoprazole 20mg,Tablet,BT-PAN-2644,2026-02-12,2027-08-11,480,3.80,Strategic Medical Warehouse,Alkem,Safe,Delhi
+MED069,Cefixime 100mg,Tablet,BT-CEF-2645,2026-02-18,2026-11-17,170,6.10,Mountain Rescue Unit,Dr. Reddy's,Safe,Gangtok
+MED070,Glucose Powder 500g,Nutrition,BT-GLU-2646,2026-02-22,2027-08-21,190,42.00,Desert Field Dispensary,Dabur,Safe,Bikaner
+MED071,Hydrocortisone Ointment 10g,Ointment,BT-HYD-2647,2026-02-25,2027-02-24,135,31.00,Coastal Command Infirmary,Glenmark,Safe,Kochi
+MED072,Amikacin 250mg,Injection,BT-AMI-2648,2026-02-27,2026-08-26,96,41.00,Western Forward Aid Station,Abbott,Near Expiry,Barmer
+MED073,Loperamide Syrup 30ml,Syrup,BT-LOP-2649,2026-03-01,2027-02-28,105,26.00,Field Trauma Center,Mankind,Safe,Pune
+MED074,Levocetirizine Syrup 60ml,Syrup,BT-LVC-2650,2026-03-03,2027-03-02,118,39.00,Air Command Medical Center,Cipla,Safe,Bengaluru
+MED075,Ceftriaxone 500mg,Injection,BT-CFX-2651,2026-03-04,2027-03-03,112,44.00,Strategic Medical Warehouse,Rocephin,Safe,Delhi
+MED076,Ondansetron Injection,Injection,BT-OND-2652,2026-03-05,2027-03-04,84,27.00,Northern Border Health Post,Emcure,Safe,Leh
+MED077,Antiseptic Wipes Pack,Protective Supply,BT-ANT-2653,2026-03-06,2027-09-05,240,58.00,Central Armed Forces Clinic,Dettol,Safe,Bhopal
+MED078,Calcium Syrup 200ml,Syrup,BT-CAL-2654,2026-03-07,2027-03-06,125,67.00,Southern Naval Medical Unit,Shelcal,Safe,Chennai
+MED079,Iron Tonic 200ml,Syrup,BT-IFA-2655,2026-03-08,2026-12-07,130,72.00,Coastal Command Infirmary,Cipla,Safe,Kochi
+MED080,Clopidogrel 150mg,Tablet,BT-CLO-2656,2026-03-09,2027-09-08,180,9.40,Western Base Hospital,USV,Safe,Jodhpur
+MED081,RL IV Fluid 500ml,IV Fluid,BT-RLF-2657,2026-03-10,2027-03-09,460,33.00,Field Trauma Center,Baxter,Safe,Pune
+MED082,Anti-Malarial Tablet Pack,Emergency Kit,BT-AMK-2658,2026-03-11,2027-03-10,92,185.00,High Altitude Medical Camp,WHO Supply,Safe,Tawang
+MED083,Cotton Roll 200g,Surgical Supply,BT-CTN-2659,2026-03-12,2028-03-11,370,24.00,Mountain Rescue Unit,3M,Safe,Gangtok
+MED084,Sterile Gauze Pack,Surgical Supply,BT-GAU-2660,2026-03-13,2028-03-12,340,28.00,Western Forward Aid Station,Ansell,Safe,Barmer
+MED085,Povidone Iodine Ointment,Ointment,BT-PVD-2661,2026-03-14,2027-03-13,155,51.00,Northern Border Health Post,Betadine,Safe,Leh
+MED086,Antacid Tablet,Tablet,BT-ANTA-2662,2026-03-15,2027-03-14,260,2.15,Desert Field Dispensary,Digene,Safe,Bikaner
+MED087,Cough Lozenges,Tablet,BT-COF-2663,2026-03-16,2026-09-15,220,3.10,Central Armed Forces Clinic,Benadryl,Near Expiry,Bhopal
+MED088,Trauma Dressing Kit,Emergency Kit,BT-TRM-2664,2026-03-17,2028-03-16,62,355.00,Coastal Command Infirmary,St. John,Safe,Kochi
+MED089,Adrenaline Auto Injector,Injection,BT-ADR-2665,2026-03-18,2027-03-17,36,185.00,Field Trauma Center,Neon,Safe,Pune
+MED090,Amoxiclav Syrup 30ml,Syrup,BT-AMC-2666,2026-03-19,2027-03-18,104,83.00,Western Base Hospital,GSK,Safe,Jodhpur
+MED091,Fluconazole 50mg,Tablet,BT-FLU-2667,2026-03-20,2027-03-19,145,4.80,Eastern Supply Depot,Cipla,Safe,Kolkata
+MED092,Aspirin 150mg,Tablet,BT-ASP-2668,2026-03-21,2027-03-20,285,1.95,Air Command Medical Center,Sun Pharma,Safe,Bengaluru
+MED093,Albendazole Suspension 10ml,Suspension,BT-ALB-2669,2026-03-22,2027-03-21,98,22.00,Mountain Rescue Unit,Alkem,Safe,Gangtok
+MED094,Silver Sulfadiazine Cream,Ointment,BT-BRN-2670,2026-03-23,2027-03-22,86,82.00,Western Forward Aid Station,Silverex,Safe,Barmer
+MED095,ORS Ready Liquid 500ml,Rehydration,BT-ORL-2671,2026-03-24,2027-03-23,210,34.00,Southern Naval Medical Unit,Dabur,Safe,Chennai
+MED096,Cefpodoxime 100mg,Tablet,BT-CPD-2672,2026-03-25,2027-03-24,168,6.80,Strategic Medical Warehouse,Lupin,Safe,Delhi
+MED097,Surgical Mask Box,Protective Supply,BT-MSK-2673,2026-03-26,2028-03-25,290,72.00,High Altitude Medical Camp,3M,Safe,Tawang
+MED098,Surface Disinfectant 1L,Protective Supply,BT-DIS-2674,2026-03-27,2027-09-26,150,96.00,Central Armed Forces Clinic,Dettol,Safe,Bhopal
+MED099,Tetanus Toxoid Booster,Injection,BT-TTB-2675,2026-03-28,2027-03-27,82,58.00,Northern Border Health Post,Serum Institute,Safe,Leh
+MED100,Paracetamol Infusion 100ml,IV Fluid,BT-PRI-2676,2026-03-29,2027-03-28,132,48.00,North Command Medical Store,Sun Pharma,Safe,Srinagar

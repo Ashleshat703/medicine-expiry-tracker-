@@ -1,0 +1,703 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Medicines>
+  <Medicine>
+    <Medicine_ID>MED001</Medicine_ID>
+    <Medicine_Name>Paracetamol 500mg</Medicine_Name>
+    <Category>Tablet</Category>
+    <Batch_No>BT-PAR-2401</Batch_No>
+    <Manufacture_Date>2024-01-15</Manufacture_Date>
+    <Expiry_Date>2026-01-14</Expiry_Date>
+    <Quantity>450</Quantity>
+    <Unit_Price>1.20</Unit_Price>
+    <Base_Location>North Command Medical Store</Base_Location>
+    <Supplier>Sun Pharma</Supplier>
+    <Stock_Status>Expired</Stock_Status>
+    <Place>Srinagar</Place>
+  </Medicine>
+  <Medicine>
+    <Medicine_ID>MED002</Medicine_ID>
+    <Medicine_Name>Amoxicillin 250mg</Medicine_Name>
+    <Category>Capsule</Category>
+    <Batch_No>BT-AMX-2402</Batch_No>
+    <Manufacture_Date>2024-02-10</Manufacture_Date>
+    <Expiry_Date>2026-02-09</Expiry_Date>
+    <Quantity>320</Quantity>
+    <Unit_Price>2.80</Unit_Price>
+    <Base_Location>Western Base Hospital</Base_Location>
+    <Supplier>Cipla</Supplier>
+    <Stock_Status>Expired</Stock_Status>
+    <Place>Jodhpur</Place>
+  </Medicine>
+  <Medicine>
+    <Medicine_ID>MED003</Medicine_ID>
+    <Medicine_Name>Cetirizine 10mg</Medicine_Name>
+    <Category>Tablet</Category>
+    <Batch_No>BT-CET-2403</Batch_No>
+    <Manufacture_Date>2024-03-05</Manufacture_Date>
+    <Expiry_Date>2026-09-04</Expiry_Date>
+    <Quantity>500</Quantity>
+    <Unit_Price>1.50</Unit_Price>
+    <Base_Location>Eastern Supply Depot</Base_Location>
+    <Supplier>Dr. Reddy's</Supplier>
+    <Stock_Status>Safe</Stock_Status>
+    <Place>Kolkata</Place>
+  </Medicine>
+  <Medicine>
+    <Medicine_ID>MED004</Medicine_ID>
+    <Medicine_Name>Azithromycin 500mg</Medicine_Name>
+    <Category>Tablet</Category>
+    <Batch_No>BT-AZI-2404</Batch_No>
+    <Manufacture_Date>2024-04-12</Manufacture_Date>
+    <Expiry_Date>2026-10-11</Expiry_Date>
+    <Quantity>210</Quantity>
+    <Unit_Price>6.20</Unit_Price>
+    <Base_Location>Central Armed Forces Clinic</Base_Location>
+    <Supplier>Lupin</Supplier>
+    <Stock_Status>Safe</Stock_Status>
+    <Place>Bhopal</Place>
+  </Medicine>
+  <Medicine>
+    <Medicine_ID>MED005</Medicine_ID>
+    <Medicine_Name>Ibuprofen 400mg</Medicine_Name>
+    <Category>Tablet</Category>
+    <Batch_No>BT-IBU-2405</Batch_No>
+    <Manufacture_Date>2024-05-08</Manufacture_Date>
+    <Expiry_Date>2026-05-07</Expiry_Date>
+    <Quantity>390</Quantity>
+    <Unit_Price>1.90</Unit_Price>
+    <Base_Location>Southern Naval Medical Unit</Base_Location>
+    <Supplier>Sun Pharma</Supplier>
+    <Stock_Status>Near Expiry</Stock_Status>
+    <Place>Chennai</Place>
+  </Medicine>
+  <Medicine>
+    <Medicine_ID>MED006</Medicine_ID>
+    <Medicine_Name>Metformin 500mg</Medicine_Name>
+    <Category>Tablet</Category>
+    <Batch_No>BT-MET-2406</Batch_No>
+    <Manufacture_Date>2024-06-18</Manufacture_Date>
+    <Expiry_Date>2027-06-17</Expiry_Date>
+    <Quantity>610</Quantity>
+    <Unit_Price>2.10</Unit_Price>
+    <Base_Location>Air Command Medical Center</Base_Location>
+    <Supplier>Abbott</Supplier>
+    <Stock_Status>Safe</Stock_Status>
+    <Place>Bengaluru</Place>
+  </Medicine>
+  <Medicine>
+    <Medicine_ID>MED007</Medicine_ID>
+    <Medicine_Name>Omeprazole 20mg</Medicine_Name>
+    <Category>Capsule</Category>
+    <Batch_No>BT-OME-2407</Batch_No>
+    <Manufacture_Date>2024-07-20</Manufacture_Date>
+    <Expiry_Date>2026-07-19</Expiry_Date>
+    <Quantity>280</Quantity>
+    <Unit_Price>3.75</Unit_Price>
+    <Base_Location>Northern Border Health Post</Base_Location>
+    <Supplier>Torrent Pharma</Supplier>
+    <Stock_Status>Near Expiry</Stock_Status>
+    <Place>Leh</Place>
+  </Medicine>
+  <Medicine>
+    <Medicine_ID>MED008</Medicine_ID>
+    <Medicine_Name>ORS Sachet</Medicine_Name>
+    <Category>Rehydration</Category>
+    <Batch_No>BT-ORS-2408</Batch_No>
+    <Manufacture_Date>2024-08-02</Manufacture_Date>
+    <Expiry_Date>2026-08-01</Expiry_Date>
+    <Quantity>700</Quantity>
+    <Unit_Price>4.40</Unit_Price>
+    <Base_Location>Desert Field Dispensary</Base_Location>
+    <Supplier>Zydus</Supplier>
+    <Stock_Status>Near Expiry</Stock_Status>
+    <Place>Bikaner</Place>
+  </Medicine>
+  <Medicine>
+    <Medicine_ID>MED009</Medicine_ID>
+    <Medicine_Name>Vitamin C 500mg</Medicine_Name>
+    <Category>Tablet</Category>
+    <Batch_No>BT-VTC-2409</Batch_No>
+    <Manufacture_Date>2024-09-14</Manufacture_Date>
+    <Expiry_Date>2027-09-13</Expiry_Date>
+    <Quantity>560</Quantity>
+    <Unit_Price>2.00</Unit_Price>
+    <Base_Location>Coastal Command Infirmary</Base_Location>
+    <Supplier>Mankind</Supplier>
+    <Stock_Status>Safe</Stock_Status>
+    <Place>Kochi</Place>
+  </Medicine>
+  <Medicine>
+    <Medicine_ID>MED010</Medicine_ID>
+    <Medicine_Name>Insulin Regular 100IU/ml</Medicine_Name>
+    <Category>Injection</Category>
+    <Batch_No>BT-INS-2410</Batch_No>
+    <Manufacture_Date>2024-10-01</Manufacture_Date>
+    <Expiry_Date>2026-04-30</Expiry_Date>
+    <Quantity>95</Quantity>
+    <Unit_Price>145.00</Unit_Price>
+    <Base_Location>Strategic Medical Warehouse</Base_Location>
+    <Supplier>Novo Nordisk</Supplier>
+    <Stock_Status>Expired</Stock_Status>
+    <Place>Delhi</Place>
+  </Medicine>
+  <Medicine>
+    <Medicine_ID>MED011</Medicine_ID>
+    <Medicine_Name>Saline 500ml</Medicine_Name>
+    <Category>IV Fluid</Category>
+    <Batch_No>BT-SAL-2411</Batch_No>
+    <Manufacture_Date>2024-11-11</Manufacture_Date>
+    <Expiry_Date>2027-11-10</Expiry_Date>
+    <Quantity>350</Quantity>
+    <Unit_Price>32.00</Unit_Price>
+    <Base_Location>Western Base Hospital</Base_Location>
+    <Supplier>Baxter</Supplier>
+    <Stock_Status>Safe</Stock_Status>
+    <Place>Jodhpur</Place>
+  </Medicine>
+  <Medicine>
+    <Medicine_ID>MED012</Medicine_ID>
+    <Medicine_Name>Crocin Syrup 60ml</Medicine_Name>
+    <Category>Syrup</Category>
+    <Batch_No>BT-CRC-2412</Batch_No>
+    <Manufacture_Date>2024-12-05</Manufacture_Date>
+    <Expiry_Date>2026-12-04</Expiry_Date>
+    <Quantity>140</Quantity>
+    <Unit_Price>28.00</Unit_Price>
+    <Base_Location>Eastern Supply Depot</Base_Location>
+    <Supplier>GSK</Supplier>
+    <Stock_Status>Safe</Stock_Status>
+    <Place>Kolkata</Place>
+  </Medicine>
+  <Medicine>
+    <Medicine_ID>MED013</Medicine_ID>
+    <Medicine_Name>Doxycycline 100mg</Medicine_Name>
+    <Category>Capsule</Category>
+    <Batch_No>BT-DOX-2501</Batch_No>
+    <Manufacture_Date>2025-01-09</Manufacture_Date>
+    <Expiry_Date>2027-01-08</Expiry_Date>
+    <Quantity>260</Quantity>
+    <Unit_Price>3.10</Unit_Price>
+    <Base_Location>High Altitude Medical Camp</Base_Location>
+    <Supplier>Cipla</Supplier>
+    <Stock_Status>Safe</Stock_Status>
+    <Place>Tawang</Place>
+  </Medicine>
+  <Medicine>
+    <Medicine_ID>MED014</Medicine_ID>
+    <Medicine_Name>Diclofenac Gel 30g</Medicine_Name>
+    <Category>Ointment</Category>
+    <Batch_No>BT-DIC-2502</Batch_No>
+    <Manufacture_Date>2025-02-15</Manufacture_Date>
+    <Expiry_Date>2027-02-14</Expiry_Date>
+    <Quantity>180</Quantity>
+    <Unit_Price>42.00</Unit_Price>
+    <Base_Location>Southern Naval Medical Unit</Base_Location>
+    <Supplier>Volini</Supplier>
+    <Stock_Status>Safe</Stock_Status>
+    <Place>Chennai</Place>
+  </Medicine>
+  <Medicine>
+    <Medicine_ID>MED015</Medicine_ID>
+    <Medicine_Name>Atorvastatin 10mg</Medicine_Name>
+    <Category>Tablet</Category>
+    <Batch_No>BT-ATO-2503</Batch_No>
+    <Manufacture_Date>2025-03-01</Manufacture_Date>
+    <Expiry_Date>2026-08-31</Expiry_Date>
+    <Quantity>300</Quantity>
+    <Unit_Price>5.80</Unit_Price>
+    <Base_Location>Air Command Medical Center</Base_Location>
+    <Supplier>Sun Pharma</Supplier>
+    <Stock_Status>Near Expiry</Stock_Status>
+    <Place>Bengaluru</Place>
+  </Medicine>
+  <Medicine>
+    <Medicine_ID>MED016</Medicine_ID>
+    <Medicine_Name>Losartan 50mg</Medicine_Name>
+    <Category>Tablet</Category>
+    <Batch_No>BT-LOS-2504</Batch_No>
+    <Manufacture_Date>2025-04-07</Manufacture_Date>
+    <Expiry_Date>2027-04-06</Expiry_Date>
+    <Quantity>410</Quantity>
+    <Unit_Price>4.10</Unit_Price>
+    <Base_Location>Northern Border Health Post</Base_Location>
+    <Supplier>Lupin</Supplier>
+    <Stock_Status>Safe</Stock_Status>
+    <Place>Leh</Place>
+  </Medicine>
+  <Medicine>
+    <Medicine_ID>MED017</Medicine_ID>
+    <Medicine_Name>Multivitamin Capsules</Medicine_Name>
+    <Category>Capsule</Category>
+    <Batch_No>BT-MVC-2505</Batch_No>
+    <Manufacture_Date>2025-05-13</Manufacture_Date>
+    <Expiry_Date>2026-11-12</Expiry_Date>
+    <Quantity>240</Quantity>
+    <Unit_Price>3.60</Unit_Price>
+    <Base_Location>Central Armed Forces Clinic</Base_Location>
+    <Supplier>Himalaya</Supplier>
+    <Stock_Status>Safe</Stock_Status>
+    <Place>Bhopal</Place>
+  </Medicine>
+  <Medicine>
+    <Medicine_ID>MED018</Medicine_ID>
+    <Medicine_Name>Pantoprazole 40mg</Medicine_Name>
+    <Category>Tablet</Category>
+    <Batch_No>BT-PAN-2506</Batch_No>
+    <Manufacture_Date>2025-06-25</Manufacture_Date>
+    <Expiry_Date>2027-06-24</Expiry_Date>
+    <Quantity>520</Quantity>
+    <Unit_Price>4.90</Unit_Price>
+    <Base_Location>Strategic Medical Warehouse</Base_Location>
+    <Supplier>Alkem</Supplier>
+    <Stock_Status>Safe</Stock_Status>
+    <Place>Delhi</Place>
+  </Medicine>
+  <Medicine>
+    <Medicine_ID>MED019</Medicine_ID>
+    <Medicine_Name>Cefixime 200mg</Medicine_Name>
+    <Category>Tablet</Category>
+    <Batch_No>BT-CEF-2507</Batch_No>
+    <Manufacture_Date>2025-07-04</Manufacture_Date>
+    <Expiry_Date>2026-07-03</Expiry_Date>
+    <Quantity>190</Quantity>
+    <Unit_Price>8.50</Unit_Price>
+    <Base_Location>Mountain Rescue Unit</Base_Location>
+    <Supplier>Dr. Reddy's</Supplier>
+    <Stock_Status>Near Expiry</Stock_Status>
+    <Place>Gangtok</Place>
+  </Medicine>
+  <Medicine>
+    <Medicine_ID>MED020</Medicine_ID>
+    <Medicine_Name>Glucose D Powder 100g</Medicine_Name>
+    <Category>Nutrition</Category>
+    <Batch_No>BT-GLU-2508</Batch_No>
+    <Manufacture_Date>2025-08-16</Manufacture_Date>
+    <Expiry_Date>2026-08-15</Expiry_Date>
+    <Quantity>330</Quantity>
+    <Unit_Price>18.00</Unit_Price>
+    <Base_Location>Desert Field Dispensary</Base_Location>
+    <Supplier>Dabur</Supplier>
+    <Stock_Status>Near Expiry</Stock_Status>
+    <Place>Bikaner</Place>
+  </Medicine>
+  <Medicine>
+    <Medicine_ID>MED021</Medicine_ID>
+    <Medicine_Name>Hydrocortisone Cream 15g</Medicine_Name>
+    <Category>Ointment</Category>
+    <Batch_No>BT-HYD-2509</Batch_No>
+    <Manufacture_Date>2025-09-09</Manufacture_Date>
+    <Expiry_Date>2027-09-08</Expiry_Date>
+    <Quantity>125</Quantity>
+    <Unit_Price>36.00</Unit_Price>
+    <Base_Location>Coastal Command Infirmary</Base_Location>
+    <Supplier>Glenmark</Supplier>
+    <Stock_Status>Safe</Stock_Status>
+    <Place>Kochi</Place>
+  </Medicine>
+  <Medicine>
+    <Medicine_ID>MED022</Medicine_ID>
+    <Medicine_Name>Amikacin 500mg</Medicine_Name>
+    <Category>Injection</Category>
+    <Batch_No>BT-AMI-2510</Batch_No>
+    <Manufacture_Date>2025-10-21</Manufacture_Date>
+    <Expiry_Date>2027-04-20</Expiry_Date>
+    <Quantity>88</Quantity>
+    <Unit_Price>54.00</Unit_Price>
+    <Base_Location>Western Forward Aid Station</Base_Location>
+    <Supplier>Abbott</Supplier>
+    <Stock_Status>Safe</Stock_Status>
+    <Place>Barmer</Place>
+  </Medicine>
+  <Medicine>
+    <Medicine_ID>MED023</Medicine_ID>
+    <Medicine_Name>Ranitidine 150mg</Medicine_Name>
+    <Category>Tablet</Category>
+    <Batch_No>BT-RAN-2511</Batch_No>
+    <Manufacture_Date>2025-11-18</Manufacture_Date>
+    <Expiry_Date>2026-05-17</Expiry_Date>
+    <Quantity>275</Quantity>
+    <Unit_Price>2.70</Unit_Price>
+    <Base_Location>Field Trauma Center</Base_Location>
+    <Supplier>Sun Pharma</Supplier>
+    <Stock_Status>Expired</Stock_Status>
+    <Place>Pune</Place>
+  </Medicine>
+  <Medicine>
+    <Medicine_ID>MED024</Medicine_ID>
+    <Medicine_Name>Loperamide 2mg</Medicine_Name>
+    <Category>Tablet</Category>
+    <Batch_No>BT-LOP-2512</Batch_No>
+    <Manufacture_Date>2025-12-02</Manufacture_Date>
+    <Expiry_Date>2027-12-01</Expiry_Date>
+    <Quantity>210</Quantity>
+    <Unit_Price>1.85</Unit_Price>
+    <Base_Location>Eastern Supply Depot</Base_Location>
+    <Supplier>Mankind</Supplier>
+    <Stock_Status>Safe</Stock_Status>
+    <Place>Kolkata</Place>
+  </Medicine>
+  <Medicine>
+    <Medicine_ID>MED025</Medicine_ID>
+    <Medicine_Name>Levocetirizine 5mg</Medicine_Name>
+    <Category>Tablet</Category>
+    <Batch_No>BT-LVC-2601</Batch_No>
+    <Manufacture_Date>2026-01-10</Manufacture_Date>
+    <Expiry_Date>2028-01-09</Expiry_Date>
+    <Quantity>460</Quantity>
+    <Unit_Price>1.75</Unit_Price>
+    <Base_Location>Air Command Medical Center</Base_Location>
+    <Supplier>Cipla</Supplier>
+    <Stock_Status>Safe</Stock_Status>
+    <Place>Bengaluru</Place>
+  </Medicine>
+  <Medicine>
+    <Medicine_ID>MED026</Medicine_ID>
+    <Medicine_Name>Ceftriaxone 1g</Medicine_Name>
+    <Category>Injection</Category>
+    <Batch_No>BT-CFX-2602</Batch_No>
+    <Manufacture_Date>2026-02-14</Manufacture_Date>
+    <Expiry_Date>2027-08-13</Expiry_Date>
+    <Quantity>105</Quantity>
+    <Unit_Price>68.00</Unit_Price>
+    <Base_Location>Strategic Medical Warehouse</Base_Location>
+    <Supplier>Rocephin</Supplier>
+    <Stock_Status>Safe</Stock_Status>
+    <Place>Delhi</Place>
+  </Medicine>
+  <Medicine>
+    <Medicine_ID>MED027</Medicine_ID>
+    <Medicine_Name>Ondansetron 4mg</Medicine_Name>
+    <Category>Tablet</Category>
+    <Batch_No>BT-OND-2603</Batch_No>
+    <Manufacture_Date>2026-03-03</Manufacture_Date>
+    <Expiry_Date>2027-09-02</Expiry_Date>
+    <Quantity>175</Quantity>
+    <Unit_Price>3.20</Unit_Price>
+    <Base_Location>Northern Border Health Post</Base_Location>
+    <Supplier>Emcure</Supplier>
+    <Stock_Status>Safe</Stock_Status>
+    <Place>Leh</Place>
+  </Medicine>
+  <Medicine>
+    <Medicine_ID>MED028</Medicine_ID>
+    <Medicine_Name>Antiseptic Solution 100ml</Medicine_Name>
+    <Category>Liquid</Category>
+    <Batch_No>BT-ANT-2604</Batch_No>
+    <Manufacture_Date>2026-03-12</Manufacture_Date>
+    <Expiry_Date>2027-03-11</Expiry_Date>
+    <Quantity>285</Quantity>
+    <Unit_Price>24.00</Unit_Price>
+    <Base_Location>Central Armed Forces Clinic</Base_Location>
+    <Supplier>Dettol</Supplier>
+    <Stock_Status>Safe</Stock_Status>
+    <Place>Bhopal</Place>
+  </Medicine>
+  <Medicine>
+    <Medicine_ID>MED029</Medicine_ID>
+    <Medicine_Name>Calcium Tablets</Medicine_Name>
+    <Category>Tablet</Category>
+    <Batch_No>BT-CAL-2605</Batch_No>
+    <Manufacture_Date>2026-03-15</Manufacture_Date>
+    <Expiry_Date>2027-09-14</Expiry_Date>
+    <Quantity>340</Quantity>
+    <Unit_Price>2.95</Unit_Price>
+    <Base_Location>Southern Naval Medical Unit</Base_Location>
+    <Supplier>Shelcal</Supplier>
+    <Stock_Status>Safe</Stock_Status>
+    <Place>Chennai</Place>
+  </Medicine>
+  <Medicine>
+    <Medicine_ID>MED030</Medicine_ID>
+    <Medicine_Name>Iron Folic Acid</Medicine_Name>
+    <Category>Tablet</Category>
+    <Batch_No>BT-IFA-2606</Batch_No>
+    <Manufacture_Date>2026-03-18</Manufacture_Date>
+    <Expiry_Date>2027-09-17</Expiry_Date>
+    <Quantity>380</Quantity>
+    <Unit_Price>1.40</Unit_Price>
+    <Base_Location>Coastal Command Infirmary</Base_Location>
+    <Supplier>Cipla</Supplier>
+    <Stock_Status>Safe</Stock_Status>
+    <Place>Kochi</Place>
+  </Medicine>
+  <Medicine>
+    <Medicine_ID>MED031</Medicine_ID>
+    <Medicine_Name>Clopidogrel 75mg</Medicine_Name>
+    <Category>Tablet</Category>
+    <Batch_No>BT-CLO-2607</Batch_No>
+    <Manufacture_Date>2025-05-22</Manufacture_Date>
+    <Expiry_Date>2026-03-21</Expiry_Date>
+    <Quantity>160</Quantity>
+    <Unit_Price>6.60</Unit_Price>
+    <Base_Location>Western Base Hospital</Base_Location>
+    <Supplier>USV</Supplier>
+    <Stock_Status>Expired</Stock_Status>
+    <Place>Jodhpur</Place>
+  </Medicine>
+  <Medicine>
+    <Medicine_ID>MED032</Medicine_ID>
+    <Medicine_Name>Normal Saline 100ml</Medicine_Name>
+    <Category>IV Fluid</Category>
+    <Batch_No>BT-NSL-2608</Batch_No>
+    <Manufacture_Date>2025-06-19</Manufacture_Date>
+    <Expiry_Date>2026-06-18</Expiry_Date>
+    <Quantity>420</Quantity>
+    <Unit_Price>14.00</Unit_Price>
+    <Base_Location>Field Trauma Center</Base_Location>
+    <Supplier>Baxter</Supplier>
+    <Stock_Status>Near Expiry</Stock_Status>
+    <Place>Pune</Place>
+  </Medicine>
+  <Medicine>
+    <Medicine_ID>MED033</Medicine_ID>
+    <Medicine_Name>Anti-Malarial Kit</Medicine_Name>
+    <Category>Emergency Kit</Category>
+    <Batch_No>BT-AMK-2609</Batch_No>
+    <Manufacture_Date>2025-07-11</Manufacture_Date>
+    <Expiry_Date>2026-09-10</Expiry_Date>
+    <Quantity>70</Quantity>
+    <Unit_Price>220.00</Unit_Price>
+    <Base_Location>High Altitude Medical Camp</Base_Location>
+    <Supplier>WHO Supply</Supplier>
+    <Stock_Status>Safe</Stock_Status>
+    <Place>Tawang</Place>
+  </Medicine>
+  <Medicine>
+    <Medicine_ID>MED034</Medicine_ID>
+    <Medicine_Name>Bandage Roll 5m</Medicine_Name>
+    <Category>Surgical Supply</Category>
+    <Batch_No>BT-BND-2610</Batch_No>
+    <Manufacture_Date>2025-08-29</Manufacture_Date>
+    <Expiry_Date>2028-08-28</Expiry_Date>
+    <Quantity>500</Quantity>
+    <Unit_Price>12.00</Unit_Price>
+    <Base_Location>Mountain Rescue Unit</Base_Location>
+    <Supplier>3M</Supplier>
+    <Stock_Status>Safe</Stock_Status>
+    <Place>Gangtok</Place>
+  </Medicine>
+  <Medicine>
+    <Medicine_ID>MED035</Medicine_ID>
+    <Medicine_Name>Surgical Gloves Box</Medicine_Name>
+    <Category>Surgical Supply</Category>
+    <Batch_No>BT-GLV-2611</Batch_No>
+    <Manufacture_Date>2025-09-16</Manufacture_Date>
+    <Expiry_Date>2027-09-15</Expiry_Date>
+    <Quantity>230</Quantity>
+    <Unit_Price>185.00</Unit_Price>
+    <Base_Location>Western Forward Aid Station</Base_Location>
+    <Supplier>Ansell</Supplier>
+    <Stock_Status>Safe</Stock_Status>
+    <Place>Barmer</Place>
+  </Medicine>
+  <Medicine>
+    <Medicine_ID>MED036</Medicine_ID>
+    <Medicine_Name>Povidone Iodine 100ml</Medicine_Name>
+    <Category>Liquid</Category>
+    <Batch_No>BT-PVD-2612</Batch_No>
+    <Manufacture_Date>2025-10-08</Manufacture_Date>
+    <Expiry_Date>2026-10-07</Expiry_Date>
+    <Quantity>145</Quantity>
+    <Unit_Price>48.00</Unit_Price>
+    <Base_Location>Northern Border Health Post</Base_Location>
+    <Supplier>Betadine</Supplier>
+    <Stock_Status>Safe</Stock_Status>
+    <Place>Leh</Place>
+  </Medicine>
+  <Medicine>
+    <Medicine_ID>MED037</Medicine_ID>
+    <Medicine_Name>Antacid Suspension 170ml</Medicine_Name>
+    <Category>Syrup</Category>
+    <Batch_No>BT-ANTA-2613</Batch_No>
+    <Manufacture_Date>2025-11-27</Manufacture_Date>
+    <Expiry_Date>2026-11-26</Expiry_Date>
+    <Quantity>165</Quantity>
+    <Unit_Price>58.00</Unit_Price>
+    <Base_Location>Desert Field Dispensary</Base_Location>
+    <Supplier>Digene</Supplier>
+    <Stock_Status>Safe</Stock_Status>
+    <Place>Bikaner</Place>
+  </Medicine>
+  <Medicine>
+    <Medicine_ID>MED038</Medicine_ID>
+    <Medicine_Name>Cough Syrup 100ml</Medicine_Name>
+    <Category>Syrup</Category>
+    <Batch_No>BT-COF-2614</Batch_No>
+    <Manufacture_Date>2025-12-20</Manufacture_Date>
+    <Expiry_Date>2026-06-19</Expiry_Date>
+    <Quantity>120</Quantity>
+    <Unit_Price>64.00</Unit_Price>
+    <Base_Location>Central Armed Forces Clinic</Base_Location>
+    <Supplier>Benadryl</Supplier>
+    <Stock_Status>Near Expiry</Stock_Status>
+    <Place>Bhopal</Place>
+  </Medicine>
+  <Medicine>
+    <Medicine_ID>MED039</Medicine_ID>
+    <Medicine_Name>First Aid Kit</Medicine_Name>
+    <Category>Emergency Kit</Category>
+    <Batch_No>BT-FAK-2615</Batch_No>
+    <Manufacture_Date>2026-01-06</Manufacture_Date>
+    <Expiry_Date>2028-01-05</Expiry_Date>
+    <Quantity>55</Quantity>
+    <Unit_Price>310.00</Unit_Price>
+    <Base_Location>Coastal Command Infirmary</Base_Location>
+    <Supplier>St. John</Supplier>
+    <Stock_Status>Safe</Stock_Status>
+    <Place>Kochi</Place>
+  </Medicine>
+  <Medicine>
+    <Medicine_ID>MED040</Medicine_ID>
+    <Medicine_Name>Adrenaline 1mg/ml</Medicine_Name>
+    <Category>Injection</Category>
+    <Batch_No>BT-ADR-2616</Batch_No>
+    <Manufacture_Date>2026-01-17</Manufacture_Date>
+    <Expiry_Date>2027-01-16</Expiry_Date>
+    <Quantity>48</Quantity>
+    <Unit_Price>92.00</Unit_Price>
+    <Base_Location>Field Trauma Center</Base_Location>
+    <Supplier>Neon</Supplier>
+    <Stock_Status>Safe</Stock_Status>
+    <Place>Pune</Place>
+  </Medicine>
+  <Medicine>
+    <Medicine_ID>MED041</Medicine_ID>
+    <Medicine_Name>Amoxiclav 625mg</Medicine_Name>
+    <Category>Tablet</Category>
+    <Batch_No>BT-AMC-2617</Batch_No>
+    <Manufacture_Date>2026-01-28</Manufacture_Date>
+    <Expiry_Date>2027-07-27</Expiry_Date>
+    <Quantity>215</Quantity>
+    <Unit_Price>7.40</Unit_Price>
+    <Base_Location>Western Base Hospital</Base_Location>
+    <Supplier>GSK</Supplier>
+    <Stock_Status>Safe</Stock_Status>
+    <Place>Jodhpur</Place>
+  </Medicine>
+  <Medicine>
+    <Medicine_ID>MED042</Medicine_ID>
+    <Medicine_Name>Fluconazole 150mg</Medicine_Name>
+    <Category>Tablet</Category>
+    <Batch_No>BT-FLU-2618</Batch_No>
+    <Manufacture_Date>2026-02-09</Manufacture_Date>
+    <Expiry_Date>2027-08-08</Expiry_Date>
+    <Quantity>130</Quantity>
+    <Unit_Price>9.50</Unit_Price>
+    <Base_Location>Eastern Supply Depot</Base_Location>
+    <Supplier>Cipla</Supplier>
+    <Stock_Status>Safe</Stock_Status>
+    <Place>Kolkata</Place>
+  </Medicine>
+  <Medicine>
+    <Medicine_ID>MED043</Medicine_ID>
+    <Medicine_Name>Aspirin 75mg</Medicine_Name>
+    <Category>Tablet</Category>
+    <Batch_No>BT-ASP-2619</Batch_No>
+    <Manufacture_Date>2026-02-20</Manufacture_Date>
+    <Expiry_Date>2027-08-19</Expiry_Date>
+    <Quantity>390</Quantity>
+    <Unit_Price>1.10</Unit_Price>
+    <Base_Location>Air Command Medical Center</Base_Location>
+    <Supplier>Sun Pharma</Supplier>
+    <Stock_Status>Safe</Stock_Status>
+    <Place>Bengaluru</Place>
+  </Medicine>
+  <Medicine>
+    <Medicine_ID>MED044</Medicine_ID>
+    <Medicine_Name>Albendazole 400mg</Medicine_Name>
+    <Category>Tablet</Category>
+    <Batch_No>BT-ALB-2620</Batch_No>
+    <Manufacture_Date>2026-02-27</Manufacture_Date>
+    <Expiry_Date>2027-08-26</Expiry_Date>
+    <Quantity>260</Quantity>
+    <Unit_Price>2.30</Unit_Price>
+    <Base_Location>Mountain Rescue Unit</Base_Location>
+    <Supplier>Alkem</Supplier>
+    <Stock_Status>Safe</Stock_Status>
+    <Place>Gangtok</Place>
+  </Medicine>
+  <Medicine>
+    <Medicine_ID>MED045</Medicine_ID>
+    <Medicine_Name>Topical Burn Cream 20g</Medicine_Name>
+    <Category>Ointment</Category>
+    <Batch_No>BT-BRN-2621</Batch_No>
+    <Manufacture_Date>2026-03-01</Manufacture_Date>
+    <Expiry_Date>2027-08-31</Expiry_Date>
+    <Quantity>90</Quantity>
+    <Unit_Price>76.00</Unit_Price>
+    <Base_Location>Western Forward Aid Station</Base_Location>
+    <Supplier>Silverex</Supplier>
+    <Stock_Status>Safe</Stock_Status>
+    <Place>Barmer</Place>
+  </Medicine>
+  <Medicine>
+    <Medicine_ID>MED046</Medicine_ID>
+    <Medicine_Name>ORS Ready Liquid 200ml</Medicine_Name>
+    <Category>Rehydration</Category>
+    <Batch_No>BT-ORL-2622</Batch_No>
+    <Manufacture_Date>2025-04-02</Manufacture_Date>
+    <Expiry_Date>2026-04-01</Expiry_Date>
+    <Quantity>240</Quantity>
+    <Unit_Price>22.00</Unit_Price>
+    <Base_Location>Southern Naval Medical Unit</Base_Location>
+    <Supplier>Dabur</Supplier>
+    <Stock_Status>Expired</Stock_Status>
+    <Place>Chennai</Place>
+  </Medicine>
+  <Medicine>
+    <Medicine_ID>MED047</Medicine_ID>
+    <Medicine_Name>Cefpodoxime 200mg</Medicine_Name>
+    <Category>Tablet</Category>
+    <Batch_No>BT-CPD-2623</Batch_No>
+    <Manufacture_Date>2025-04-18</Manufacture_Date>
+    <Expiry_Date>2026-10-17</Expiry_Date>
+    <Quantity>175</Quantity>
+    <Unit_Price>11.20</Unit_Price>
+    <Base_Location>Strategic Medical Warehouse</Base_Location>
+    <Supplier>Lupin</Supplier>
+    <Stock_Status>Safe</Stock_Status>
+    <Place>Delhi</Place>
+  </Medicine>
+  <Medicine>
+    <Medicine_ID>MED048</Medicine_ID>
+    <Medicine_Name>N95 Mask Pack</Medicine_Name>
+    <Category>Protective Supply</Category>
+    <Batch_No>BT-N95-2624</Batch_No>
+    <Manufacture_Date>2025-05-09</Manufacture_Date>
+    <Expiry_Date>2028-05-08</Expiry_Date>
+    <Quantity>310</Quantity>
+    <Unit_Price>95.00</Unit_Price>
+    <Base_Location>High Altitude Medical Camp</Base_Location>
+    <Supplier>3M</Supplier>
+    <Stock_Status>Safe</Stock_Status>
+    <Place>Tawang</Place>
+  </Medicine>
+  <Medicine>
+    <Medicine_ID>MED049</Medicine_ID>
+    <Medicine_Name>Hand Sanitizer 500ml</Medicine_Name>
+    <Category>Protective Supply</Category>
+    <Batch_No>BT-HSZ-2625</Batch_No>
+    <Manufacture_Date>2025-06-14</Manufacture_Date>
+    <Expiry_Date>2027-06-13</Expiry_Date>
+    <Quantity>205</Quantity>
+    <Unit_Price>88.00</Unit_Price>
+    <Base_Location>Central Armed Forces Clinic</Base_Location>
+    <Supplier>Dettol</Supplier>
+    <Stock_Status>Safe</Stock_Status>
+    <Place>Bhopal</Place>
+  </Medicine>
+  <Medicine>
+    <Medicine_ID>MED050</Medicine_ID>
+    <Medicine_Name>Tetanus Injection</Medicine_Name>
+    <Category>Injection</Category>
+    <Batch_No>BT-TET-2626</Batch_No>
+    <Manufacture_Date>2025-07-01</Manufacture_Date>
+    <Expiry_Date>2026-12-30</Expiry_Date>
+    <Quantity>75</Quantity>
+    <Unit_Price>54.00</Unit_Price>
+    <Base_Location>Northern Border Health Post</Base_Location>
+    <Supplier>Serum Institute</Supplier>
+    <Stock_Status>Safe</Stock_Status>
+    <Place>Leh</Place>
+  </Medicine>
+</Medicines>
